@@ -12,8 +12,7 @@ npm install
 npm start
 ```
 
-This will start the React app on [http://localhost:5173](http://localhost:5173) (if using Vite) or [http://localhost:3000](http://localhost:3000) (if using Create React App).
-
+This will start the React app on [http://localhost:5173]
 #### ⚙️ Backend
 
 The backend is powered by **NestJS**, a progressive Node.js framework.
